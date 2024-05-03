@@ -5,7 +5,6 @@
 
 // Return the positive integer k. If there is no such integer, return -1.
 
- 
 
 // Example 1:
 
