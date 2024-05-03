@@ -12,7 +12,6 @@
 // If version1 > version2, return 1.
 // Otherwise, return 0.
  
-
 // Example 1:
 
 // Input: version1 = "1.01", version2 = "1.001"
