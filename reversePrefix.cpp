@@ -16,7 +16,6 @@
 // Explanation: The first occurrence of "d" is at index 3. 
 // Reverse the part of word from 0 to 3 (inclusive), the resulting string is "dcbaefd".
 
-
 class Solution {
 public:
     string reversePrefix(string word, char ch) {
