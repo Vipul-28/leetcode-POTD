@@ -4,7 +4,6 @@
 
 // Return the minimum number of boats to carry every given person.
 
- 
 
 // Example 1:
 
