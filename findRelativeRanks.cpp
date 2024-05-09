@@ -14,8 +14,6 @@
 // For the 4th place to the nth place athlete, their rank is their placement number (i.e., the xth place athlete's rank is "x").
 // Return an array answer of size n where answer[i] is the rank of the ith athlete.
 
- 
-
 // Example 1:
 
 // Input: score = [5,4,3,2,1]
