@@ -5,8 +5,6 @@
 
 // Return the kth smallest fraction considered. Return your answer as an array of integers of size 2, where answer[0] == arr[i] and answer[1] == arr[j].
 
- 
-
 // Example 1:
 
 // Input: arr = [1,2,3,5], k = 3
