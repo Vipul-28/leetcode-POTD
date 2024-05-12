@@ -7,8 +7,6 @@
 // In the group, each worker's pay must be directly proportional to their quality. This means if a worker’s quality is double that of another worker in the group, then they must be paid twice as much as the other worker.
 // Given the integer k, return the least amount of money needed to form a paid group satisfying the above conditions. Answers within 10-5 of the actual answer will be accepted.
 
- 
-
 // Example 1:
 
 // Input: quality = [10,20,5], wage = [70,50,30], k = 2
