@@ -8,8 +8,6 @@
 
 // Return the generated matrix.
 
- 
-
 // Example 1:
 
 
