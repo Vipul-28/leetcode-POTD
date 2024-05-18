@@ -13,8 +13,7 @@
 // Output: [1,null,3,null,4]
 // Explanation: Leaf nodes in green with value (target = 2) are removed (Picture in left). 
 // After removing, new nodes become leaf nodes with value (target = 2) (Picture in center).
-// Example 2:
-
+// Example 2
 
 
 // Input: root = [1,3,3,3,2], target = 3
