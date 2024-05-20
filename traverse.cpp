@@ -6,8 +6,6 @@
 
 // Return the minimum number of moves required to make every node have exactly one coin.
 
- 
-
 // Example 1:
 
 
